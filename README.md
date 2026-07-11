@@ -1,4 +1,4 @@
-# Social Media Platform
+# Social Media Demo-Platform
 
 A full-stack social media platform built using the MERN Stack.
 
